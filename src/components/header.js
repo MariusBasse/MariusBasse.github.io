@@ -11,6 +11,11 @@ const Header = ({ siteTitle }) => (
       top: `0`,
     }}
   >
+    <meta
+      name="google-site-verification"
+      content="Ea1EL3e2YCBnvAuOobK_9p19bX5G2zzxxa5uCFWi-x0"
+    />
+
     <div
       style={{
         margin: `0 auto`,
